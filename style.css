@@ -2,3 +2,7 @@
 background-size : cover;
 font-family: cursive;
 }
+#carousel-box{
+	width:  20vw;
+	margin: 0px auto;
+}
